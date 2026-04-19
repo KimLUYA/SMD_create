@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "description": "새마동 유튜브 구독과 좋아요 부탁드립니다",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 99
+    }
+  }
+}
